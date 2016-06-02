@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Pneuma33 CMS
-Plugin URI: https://github.com/jsoningram/cabbagecms
+Plugin URI: https://github.com/pneuma33/pneuma33cms
 Description: Custom settings for Pneuma33 CMS
 Version: 1.0
 Author: Pneuma33
@@ -42,11 +42,11 @@ function cabbagecms_plugin_updater() { // enable updates from Github - https://g
 
 		$config = array(
 			'slug' => plugin_basename( __FILE__ ),
-			'proper_folder_name' => 'cabbagecms',
-			'api_url' => 'https://api.github.com/repos/jsoningram/cabbagecms',
-			'raw_url' => 'https://raw.github.com/jsoningram/cabbagecms/master',
+			'proper_folder_name' => 'pneuma33cms',
+			'api_url' => 'https://api.github.com/repos/pneuma33/pneuma33cms',
+			'raw_url' => 'https://raw.github.com/pneuma33/pneuma33cms/master',
 			'github_url' => 'https://github.com/pneuma33/pneuma33cms',
-			'zip_url' => 'https://github.com/jsoningram/cabbagecms/archive/master.zip',
+			'zip_url' => 'https://github.com/pneuma33/pneuma33cms/archive/master.zip',
 			'sslverify' => true,
 			'requires' => '3.9',
 			'tested' => '3.9',
