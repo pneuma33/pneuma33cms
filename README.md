@@ -1,6 +1,6 @@
-#cabbagecms
+#pneuma33cms
 
-Customizes WordPress for More Cabbage clients. Features are:
+Customizes WordPress for Pneuma33 clients. Features are:
 
   * Email obfuscation shortcode
   * Social sharing and connect bars
@@ -10,7 +10,7 @@ Customizes WordPress for More Cabbage clients. Features are:
 
 ##Usage  / Instructions
 
-Upload to wp-content/plugins and activate. Edit Settings/CabbageCMS with site info as needed.
+Upload to wp-content/plugins and activate. Edit Settings/PneumaCMS with site info as needed.
 
 **Email:**
 Wrap an email address in the [email] shortcode ex:
@@ -81,6 +81,8 @@ echo $curauth->googleplusurl;
 ```
 
 ##Credits
+
+Thanks to [@jsoningram](https://github.com/jsoningram/cabbagecms) for creating the first versions of this plugin.
 
 Thanks to [@jkudish](https://github.com/jkudish/WordPress-GitHub-Plugin-Updater) for the Git updater class
 
