@@ -26,19 +26,10 @@ span.ab-label, a.ab-item:hover, #wp-admin-bar-view-site:hover + ul, #wpadminbar 
 #adminmenu li.menu-top:hover,
 #adminmenu li.opensub > a.menu-top,
 #adminmenu li > a.menu-top:focus {color:#fff !important;}
-
-#adminmenu li:hover div.wp-menu-image:before,
-#adminmenu li a:focus div.wp-menu-image:before,
-#adminmenu li.opensub div.wp-menu-image:before {
-	color: #fff !important;
-}
-#collapse-menu:hover,
-#collapse-menu:hover #collapse-button div:after {
-	color: #fff !important;
-}
+#adminmenu li:hover div.wp-menu-image:before,#adminmenu li a:focus div.wp-menu-image:before,#adminmenu li.opensub div.wp-menu-image:before {color: #fff !important;}
+#collapse-menu:hover,#collapse-menu:hover #collapse-button div:after {color: #fff !important;}
 /* Can't remember what this is for - force some color background I think this forces the publish buttons to be colored instead of wp blue */
 .wrap .add-new-h2:hover, .wrap .page-title-action:hover {background:#eb7924 none repeat scroll 0 0 !important;}
-
 @media screen and ( max-width: 782px ) {
 	.wp-responsive-open #wpadminbar #wp-admin-bar-menu-toggle .ab-icon:before {
 		color: #fff !important;
