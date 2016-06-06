@@ -26,11 +26,11 @@ endif;
 ```
 
 To get the FB Share button to show up. Either download https://wordpress.org/plugins/facebook/
-or
+<br />or<br />
 https://developers.facebook.com/docs/plugins/share-button/ add the script just below body tag of the theme.
 
 ```
-If you do not want a horizontal share bar comment out these line in the _/css/cabbagecms_connect.css...
+If you do not want a horizontal share bar comment out these line in the _/css/cabbagecms_connect.css
 ```css
 .cabbagecms-share li {float: left;margin-right: 10px;}
 
@@ -84,6 +84,8 @@ Thanks to [@jkudish](https://github.com/jkudish/WordPress-GitHub-Plugin-Updater)
 Thanks to [@serbanghita](https://github.com/serbanghita/Mobile-Detect) for the Mobile_Detect class
 
 ##Change Log
+**2.0** Updated to Pneuma33 Plugin. Color fixes for admin
+
 **1.0.8** Move Google Analytics to head
 
 **1.0.7** Add version number to stylesheets
