@@ -3,7 +3,7 @@
 Plugin Name: Pneuma33 CMS
 Plugin URI: https://github.com/pneuma33/pneuma33cms
 Description: Custom settings for Pneuma33 CMS
-Version: 1.1
+Version: 1.1.1
 Author: Pneuma33
 Author URI: http://pneuma33.com
 License: GPL2

@@ -24,28 +24,23 @@ if ( function_exists( 'cabbagecms_share_bar')) :
   cabbagecms_share_bar();
 endif;
 ```
-If you want a horizontal share bar...
+
+To get the FB Share button to show up. Either download https://wordpress.org/plugins/facebook/
+or
+https://developers.facebook.com/docs/plugins/share-button/ add the script just below body tag of the theme.
+
+```
+If you do not want a horizontal share bar comment out these line in the _/css/cabbagecms_connect.css...
 ```css
-.cabbagecms-share li {
-    float: left;
-    margin-right: 10px;
-}
+.cabbagecms-share li {float: left;margin-right: 10px;}
 
-.cabbagecms-share .fb-share {
-    margin: -4px 20px 0 0 !important;
-}
+.cabbagecms-share .fb-share {margin: -4px 20px 0 0 !important;}
 
-.cabbagecms-share .g-share {
-    width: 70px;
-}
+.cabbagecms-share .g-share {width: 70px;}
 
-.cabbagecms-share .twitter-share {
-    width: 90px;
-}
+.cabbagecms-share .twitter-share {width: 90px;}
 
-.cabbagecms-share .pinterest-share-button {
-    margin-right: 30px !important;
-}
+.cabbagecms-share .pinterest-share-button {margin-right: 30px !important;}
 ```
 
 **Connect:**

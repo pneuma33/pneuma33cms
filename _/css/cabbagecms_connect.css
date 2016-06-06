@@ -1,1 +1,14 @@
 .cabbagecms-social-icons li{float:left}.cabbagecms-social-icons .facebook{width:27px;height:26px;float:left;margin-top:0;margin-right:4px;position:relative;z-index:2}.cabbagecms-social-icons .facebook-icon{display:block;background:url(../img/icons-social-256x26.png) no-repeat;height:26px;overflow:hidden;text-indent:1000px;white-space:nowrap}.cabbagecms-social-icons .twitter{width:27px;height:26px;float:left;margin-right:4px;margin-top:0;position:relative;z-index:3}.cabbagecms-social-icons .twitter-icon{display:block;background:url(../img/icons-social-256x26.png) -39px 0 no-repeat;height:26px;overflow:hidden;text-indent:1000px;white-space:nowrap}.cabbagecms-social-icons .youtube{width:27px;height:26px;float:left;margin-right:4px;margin-top:0;position:relative;z-index:4}.cabbagecms-social-icons .youtube-icon{display:block;background:url(../img/icons-social-256x26.png) -153px 0 no-repeat;height:26px;overflow:hidden;text-indent:1000px;white-space:nowrap}.cabbagecms-social-icons .pinterest{width:27px;height:26px;float:left;margin-right:4px;margin-top:0;position:relative;z-index:4}.cabbagecms-social-icons .pinterest-icon{display:block;background:url(../img/icons-social-256x26.png) -115px 0 no-repeat;height:26px;overflow:hidden;text-indent:1000px;white-space:nowrap}.cabbagecms-social-icons .googleplus{width:27px;height:26px;float:left;margin-right:4px;margin-top:0;position:relative;z-index:4}.cabbagecms-social-icons .googleplus-icon{display:block;background:url(../img/icons-social-256x26.png) -76px 0 no-repeat;height:26px;overflow:hidden;text-indent:1000px;white-space:nowrap}.cabbagecms-social-icons .instagram{width:27px;height:26px;float:left;margin-right:4px;margin-top:0;position:relative;z-index:4}.cabbagecms-social-icons .instagram-icon{display:block;background:url(../img/icons-social-256x26.png) -191px 0 no-repeat;height:26px;overflow:hidden;text-indent:1000px;white-space:nowrap}.cabbagecms-social-icons .linkedin{width:27px;height:26px;float:left;margin-right:4px;margin-top:0;position:relative;z-index:4}.cabbagecms-social-icons .linkedin-icon{display:block;background:url(../img/icons-social-256x26.png) -231px 0 no-repeat;height:26px;overflow:hidden;text-indent:1000px;white-space:nowrap}
+/*allows the share button to be horizontal*/
+/*.cabbagecms-share li {float: left;margin-right: 10px;}
+.cabbagecms-share .fb-share {margin: -4px 20px 0 0 !important;}
+.cabbagecms-share .g-share {width: 70px;}
+.cabbagecms-share .twitter-share {width: 90px;}
+.cabbagecms-share .pinterest-share-button {margin-right: 30px !important;}*/
+
+.cabbagesocial {width:100%; display:block; text-align:right;}
+.cabbagecms-share li {float:none; margin-right:10px;display:inline-block;}
+.cabbagecms-share .fb-share {margin-right:20px;}
+.cabbagecms-share .g-share {width:70px;margin-right: 30px;}
+.cabbagecms-share .twitter-share {width: 90px;margin:0 30px -20px 0 !important;}
+.cabbagecms-share .pinterest-share-button {margin-right: 30px !important;}
