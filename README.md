@@ -29,7 +29,7 @@ To get the FB Share button to show up. Either download https://wordpress.org/plu
 <br />or<br />
 https://developers.facebook.com/docs/plugins/share-button/ add the script just below body tag of the theme.
 
-```
+
 If you do not want a horizontal share bar comment out these line in the _/css/cabbagecms_connect.css
 ```css
 .cabbagecms-share li {float: left;margin-right: 10px;}
