@@ -84,6 +84,8 @@ Thanks to [@jkudish](https://github.com/jkudish/WordPress-GitHub-Plugin-Updater)
 Thanks to [@serbanghita](https://github.com/serbanghita/Mobile-Detect) for the Mobile_Detect class
 
 ##Change Log
+**2.1** Updated color scheme.
+
 **2.0** Updated to Pneuma33 Plugin. Color fixes for admin
 
 **1.0.8** Move Google Analytics to head
