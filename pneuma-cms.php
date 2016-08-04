@@ -3,7 +3,7 @@
 Plugin Name: Pneuma33 CMS
 Plugin URI: https://github.com/pneuma33/pneuma33cms
 Description: Custom settings for Pneuma33 CMS
-Version: 2.0
+Version: 2.1
 Author: Pneuma33
 Author URI: http://pneuma33.com
 License: GPL2
@@ -49,7 +49,7 @@ function cabbagecms_plugin_updater() { // enable updates from Github - https://g
 			'zip_url' => 'https://github.com/pneuma33/pneuma33cms/archive/master.zip',
 			'sslverify' => true,
 			'requires' => '3.9',
-			'tested' => '4.5',
+			'tested' => '4.5.3',
 			'readme' => 'README.md',
 			'access_token' => '',
 		);
