@@ -104,9 +104,8 @@ function cabbagecms_dashboard() { // populate dashboard widget
 
     echo '<img src="'. $cabbagecms_logo . '" class="cabbagecms-center" alt="Pneuma33 logo" />';
     echo '<h2 class="cabbagecms-welcome">Welcome to Pneuma33 CMS</h2>';
-    echo '<p>Welcome to your Pneuma33 CMS administration panel. From here, you can manage your Pneuma33 site. If you require assistance, please visit <a href="https://pneuma33.com/">pneuma33.com</a> and submit a support ticket. Our knowledgeable and friendly staff will quickly respond to your request. You may also email the support staff at <a href="mailto:support@pneuma33.com">support@pnuema33.com</a>. Thank you for choosing Pneuma33.</p>';
+    echo '<p>Welcome to your Pneuma33 CMS administration panel. From here, you can manage your Pneuma33 site. If you require assistance, please visit <a href="https://support.pneuma33.com/">P33 Support Center</a> to submit a ticket. Our knowledgeable and friendly staff will quickly respond to your request. You may also email the support staff at <a href="mailto:support@pneuma33.com">support@pnuema33.com</a>. Thank you for choosing Pneuma33.</p>';
     echo '<em>Pneuma33 Support Team</em><br />';
-   // echo '<small>Head Cabbage, More Cabbage</small>';
 }
 
 function cabbagecms_register_widget() { // add dashboard widget
